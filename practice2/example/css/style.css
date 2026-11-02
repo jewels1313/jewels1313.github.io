@@ -1,0 +1,26 @@
+#loop {
+	font-size: 50px;
+	color: palevioletred;
+}
+
+body {
+	background: ;
+}
+
+#pop {
+	color: darkred;
+	font-size: 25px;
+}
+
+.wow {
+	color: orangered;
+	font-size: 20px;
+}
+
+/*this was me testing out this theory with divs and ids and i was right with how it works*/
+#yeah {
+	width: 400px;
+	height: 200px;
+	background: yellowgreen;
+	display: inline-block;
+}

@@ -1,0 +1,43 @@
+@font-face {
+	font-family: "customFont";
+	src: url(fonts/iso.ttf);
+}
+
+h1 {
+	color: blueviolet;
+	font-size: 70px;
+	text-align: center;
+	font-family: customFont;
+	background: #FF5CDC;
+}
+
+body {background: #FF91E7; margin: 60px;}
+
+
+p {
+	color: mediumpurple;
+	font-size: 25px;
+	font-family: Times New Roman;
+
+}
+
+img {width: 300px;}
+
+a {
+	color: rebeccapurple;
+	font-family: customFont;
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
